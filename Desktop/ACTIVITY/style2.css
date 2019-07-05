@@ -1,0 +1,31 @@
+body{
+    background-color:#333;
+    color:#fff;
+    margin: 30%;
+    margin-top: 10px;
+    text-align: center;
+}
+#img{
+    background-image: url('../newpage/tree.jpg');
+    background-size: cover;
+}
+.form{
+    text-align: center;
+    color: lightskyblue;
+}
+.container2{
+    text-align: center;
+    font-variant: small-caps;
+}
+.container1{
+    padding-top: 10px;
+}
+.container3{
+    text-align: center;
+    color:brown;
+    font-variant:small-caps;
+    padding-top: 50px;
+}
+.container4{
+    text-align: center;
+}
